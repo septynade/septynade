@@ -8,5 +8,5 @@
 
 I'm an English Literature graduate turned web developer based in Bogor, Indonesia. I first dabbled with code on FreeCodeCamp in 2016, and in the middle of 2019 after reading and listening to just a "few" success stories, I was convinced that I could become a professional developer. Since then, I have been continuously learning via courses and any other sources I could access, with a goal in mind; to become a reliable developer.
 
-- 🌱 I’m currently learning: React.js
+- 🌱 I’m currently learning: Back-end (Php/Node.js)
 - 📫 How to reach me: septynade@gmail.com
