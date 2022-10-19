@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, my name is Ade.</h1>
 <p align="center">
-  <a href="https://www.septynade.com">Personal Site</a> ✘ 
+  <a href="https://septynade.netlify.app">Personal Site</a> ✘ 
   <a href="https://twitter.com/septynade">Twitter</a>
 </p>
 
